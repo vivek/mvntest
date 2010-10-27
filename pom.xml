@@ -52,4 +52,9 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <scm>
+            <connection>scm:svn:https://svn.dev.java.net1/svn/glassfish-scripting1/trunk/rails/gem</connection>
+            <developerConnection>scm:svn:https://svn.dev.java.net1/svn/glassfish-scripting1/trunk/rails/gem
+            </developerConnection>
+        </scm>
 </project>
